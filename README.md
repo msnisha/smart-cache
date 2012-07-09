@@ -1,4 +1,4 @@
 SmartCache
 ==========
 
-Smart cache librari for Codeigniter framework.
+Smart cache library for Codeigniter framework.
