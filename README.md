@@ -6,13 +6,14 @@ Smart cache library for Codeigniter framework.
 This Codeigniter library supports partial caching and it is very simple library to learn and use.
 
 <h2>Usage</h2>
-
-```php
-// For caching view output call this after loading the view
+Use the below code to cache the output
+```PHP
 $this->load->library('smartcache');
 $this->smartcache->save_output('filename_here');
+```
 
-// For getting the cached out
+Use the below code to get the cached output
+```PHP
 $this->load->library('smartcache');
 if($this->smartcache->get_to_output('filename_here'))
 {
