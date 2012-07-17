@@ -1,0 +1,8 @@
+name: smart-cache
+
+# Current version of this spark.
+version: 1.0.0
+
+# This is the version of CodeIgniter this spark is compatible up to. It should
+#  be in x.x.x format
+compatibility: 2.0.2
