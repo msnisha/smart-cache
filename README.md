@@ -15,7 +15,7 @@ $this->load->library('smartcache');
 $this->smartcache->save_output('filename_here');
 ```
 
-Use the below code to get the cached output
+Use the below code to get the cached output after loading the view using $this->load->view('viewFileName');
 ```PHP
 $this->load->library('smartcache');
 if($this->smartcache->get_to_output('filename_here'))
