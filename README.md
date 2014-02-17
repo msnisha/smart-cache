@@ -30,4 +30,4 @@ else
 }
 ```
 
-For full documentation please refer http://thephpcode.com/index.php/help/library_smartcache.html
+For full documentation please refer www.thephpcode.com/help/library_smartcache.html
