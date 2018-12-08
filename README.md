@@ -10,10 +10,12 @@ library to the community.
 
 <h2>Usage</h2>
 Use the below code to cache the output
-```PHP
+
+
+```php
 $this->load->library('smartcache');
 $this->smartcache->save_output('filename_here');
-```
+````
 
 Use the below code to get the cached output after loading the view using $this->load->view('viewFileName');
 ```PHP
