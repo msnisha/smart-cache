@@ -31,4 +31,4 @@ else
 ```
 
 For full documentation please refer www.thephpcode.com/help/library_smartcache.html
- 
+
