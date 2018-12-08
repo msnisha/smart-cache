@@ -4,7 +4,7 @@ SmartCache
 Smart cache library for Codeigniter framework.
 
 This Codeigniter library supports partial caching and it is very simple library to learn and use. I have created
-this library originally for using in the codeigniter websites generated using http://thephpcode.com 
+this library originally for using in the codeigniter websites generated using https://thephpcode.com 
 website generation wizard. After seeing lot of questions and discussions I thought it is worth to share this
 library to the community.
 
@@ -32,5 +32,5 @@ else
 }
 ```
 
-For full documentation please refer www.thephpcode.com/help/library_smartcache.html
+For full documentation please refer https://thephpcode.com/help/library_smartcache.html
 
