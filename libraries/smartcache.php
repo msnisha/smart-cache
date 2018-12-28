@@ -19,7 +19,7 @@ class smartcache {
     function __construct() {
         
     }
-
+ 
     /**
      *
      * @param type $fileName : Filename with full path relative to the cache directory in the config file
